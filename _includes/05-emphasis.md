@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Over the past year I have acquired many *skills* in my journey towards becoming a *cloud professional.*
+-  **Python**
+-  **CloudFormation**
+-  **AWS Platform**
+-  **Solutions Architect Certification**
+-  **DevOps Tools**
